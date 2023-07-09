@@ -11,6 +11,7 @@ nav{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    margin: 0 200px;
 }
 .title-nav{
     color: #181818;
@@ -45,4 +46,17 @@ nav a{
     font-weight: 700;
     border-radius: 5px;
 
+}
+.header{
+    background-color: #FFF8F3;
+    
+}
+.header-container{
+    display: flex;
+    padding: 30px 30px 30px 150px;
+    align-items: center;
+}
+.banner-pic{
+    width: 300px;
+    
 }
