@@ -124,6 +124,7 @@ nav a {
 
 .main {
     max-width: 1140px;
+    margin: auto;
 }
 
 .info-container {
@@ -146,3 +147,10 @@ nav a {
     font-weight: 500px;
     line-height: 30px;
 }
+
+#do {
+    padding: 30px 150px;
+
+
+}
+
