@@ -154,3 +154,18 @@ nav a {
 
 }
 
+.skill-container{
+    display: flex;
+    padding: 30px;
+    gap: 24px ;
+    margin: 50px 230px ;
+    justify-content: space-around;
+    
+}
+.skill{
+    box-shadow: 4px 4px 6px rgb(209, 204, 204);
+}
+
+.resume-container{
+    display: flex;
+}
