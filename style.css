@@ -154,18 +154,70 @@ nav a {
 
 }
 
-.skill-container{
+.skill-container {
     display: flex;
     padding: 30px;
-    gap: 24px ;
-    margin: 50px 230px ;
+    gap: 24px;
+    margin: 50px 230px;
     justify-content: space-around;
-    
+
 }
-.skill{
+
+.skill {
     box-shadow: 4px 4px 6px rgb(209, 204, 204);
 }
 
-.resume-container{
+.resume-container {
     display: flex;
+    justify-content: center;
+    padding: 0 230px;
+    gap: 70px;
+
+}
+
+.section-title {
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+}
+
+.resume-title {
+    color: #474747;
+    margin-bottom: 30px;
+
+}
+
+.resume-column-title {
+    color: #474747;
+    font-size: 20px;
+}
+
+.resume-institude {
+    color: #757575;
+    font-size: 15px;
+    margin-top: 10px;
+
+}
+
+.resume-describtion {
+    color: #757575;
+
+    font-size: 13px;
+    margin-top: 20px;
+}
+.download-btn{
+    text-align: center;
+    
+   
+    
+}
+.btn{
+    background: #FD6E0A;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    padding: 15px;
+    margin-top: 50px;
+
+
 }
