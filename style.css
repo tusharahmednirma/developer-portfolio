@@ -66,6 +66,7 @@ nav a {
     background-position: bottom right;
     background-size: 500px;
     border: none;
+    justify-content: space-between;
 }
 
 .banner-pic {
@@ -94,4 +95,28 @@ nav a {
     margin-bottom: 30px;
     font-weight: 400;
     line-height: 30px;
+
+}
+
+.about {
+    padding: 131px;
+    border-radius: 10px;
+    background: #FFF8F3;
+    margin: 130px 150px;
+}
+
+.section-title {
+    color: #181818;
+    text-align: center;
+
+    font-size: 35px;
+
+    font-weight: 700;
+
+}
+.section-describtion{
+    color:  #757575;
+text-align: center;
+font-size: 18px;
+font-weight: 400;
 }
