@@ -221,3 +221,25 @@ nav a {
 
 
 }
+.footer-container{
+    background: #FFF8F3;
+    display: flex;
+    padding: 130px 200px ;
+    margin-top: 100px;
+}
+.footer-title{
+    color: #181818;
+text-align: center;
+font-size: 35px;
+font-weight: 700;
+margin-bottom: 20px;
+
+}
+
+.footer-description{
+    font-size: 16px;
+    color: #474747;
+    margin-bottom: 30px;
+   
+
+}
